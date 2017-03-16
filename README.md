@@ -12,5 +12,9 @@ Install-Package CredentialManagment
 
 Optional---
 I'm using 
+
+
 Install-Package Costura.Fody
+
+
 because it embeds all your dll file in the exe.

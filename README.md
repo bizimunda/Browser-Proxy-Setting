@@ -1,6 +1,6 @@
 This program is in C#.
 This program lets you read your browser's setting.
-You need 1 Librairy for that.
+You need 1 Library for that.
 1) CredentialManagement
 
 To install this libray you can use Nuget Package manager console.
